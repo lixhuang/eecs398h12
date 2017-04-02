@@ -1,0 +1,4 @@
+Host rob8
+	HostName login.engin.umich.edu
+	User lixhuang
+	Compression yes
